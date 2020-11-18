@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\bin\Debug\Gplayer.exe.config
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\bin\Debug\Gplayer.exe
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\bin\Debug\Gplayer.pdb
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\obj\Debug\Gplayer.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\obj\Debug\Gplayer.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\obj\Debug\Gplayer.Gplay.resources
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\obj\Debug\Gplayer.Properties.Resources.resources
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\obj\Debug\Gplayer.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\obj\Debug\Gplayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\obj\Debug\Gplayer.exe
+C:\Users\HP\Desktop\C# projects\Gplayer\Gplayer\obj\Debug\Gplayer.pdb
